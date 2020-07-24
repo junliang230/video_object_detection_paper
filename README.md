@@ -34,6 +34,7 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 * **LWDN**: Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan. "Video Object Detection with Locally-Weighted Deformable Neighbors". AAAI(2019).[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4871)]
 
 <br>
+
 ### CVPR 2018
 * **THP**:  Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei. "Towards High Performance Video Object Detection". CVPR(2018).[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_Towards_High_Performance_CVPR_2018_paper.pdf)]
 * **LSTM-SSD**:  Mason Liu, Menglong Zhu. "Mobile Video Object Detection with Temporally-Aware Feature Maps". CVPR(2018).[[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Mobile_Video_Object_CVPR_2018_paper.pdf)]
