@@ -51,3 +51,9 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 
 ### CVPR 2017
 * **DFF**:  Xizhou Zhu, Yuwen Xiong, Jifeng Dai, Lu Yuan, Yichen Wei. "Deep Feature Flow for Video Recognition". CVPR(2017).[[paper](https://arxiv.org/pdf/1611.07715.pdf)] [[code](https://github.com/msracver/Deep-Feature-Flow)]
+
+<br>
+
+### ICCV 2017
+* **FGFA**:  Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei. "Flow-Guided Feature Aggregation for Video Object Detection". ICCV(2017).[[paper](https://arxiv.org/abs/1703.10025v2)] [[code](https://github.com/msracver/Flow-Guided-Feature-Aggregation)]
+* **D&T**:  Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman. "Detect to Track and Track to Detect". ICCV(2017).[[paper](https://arxiv.org/pdf/1710.03958v2.pdf)] [[code](https://github.com/feichtenhofer/detect-track)]
