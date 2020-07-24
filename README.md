@@ -47,3 +47,7 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 * **STMM**:  Fanyi Xiao, Yong Jae Lee. "Video Object Detection with an Aligned Spatial-Temporal Memory". ECCV(2018).[[paper](https://arxiv.org/pdf/1712.06317v3.pdf)] [[code](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
 * **MANet**:  Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng. "Fully Motion-Aware Network for Video Object Detection". ECCV(2018).[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shiyao_Wang_Fully_Motion-Aware_Network_ECCV_2018_paper.pdf)]
 
+<br>
+
+### CVPR 2017
+* **DFF**:  Xizhou Zhu, Yuwen Xiong, Jifeng Dai, Lu Yuan, Yichen Wei. "Deep Feature Flow for Video Recognition". CVPR(2017).[[paper](https://arxiv.org/pdf/1611.07715.pdf)] [[code](https://github.com/msracver/Deep-Feature-Flow)]
