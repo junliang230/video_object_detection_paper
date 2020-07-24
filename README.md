@@ -28,3 +28,8 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 * **PSLA**: Chaoxu Guo, Bin Fan1, Jie Gu, Qian Zhang, Shiming Xiang, Veronique Prinet, Chunhong Pan1. "Progressive Sparse Local Attention for Video Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Guo_Progressive_Sparse_Local_Attention_for_Video_Object_Detection_ICCV_2019_paper.pdf)]
 * **A Delay Metric for Video Object Detection: What Average Precision Fails to Tell**: Huizi Mao, Xiaodong Yang, William J. Dally. "A Delay Metric for Video Object Detection: What Average Precision Fails to Tell". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_A_Delay_Metric_for_Video_Object_Detection_What_Average_Precision_ICCV_2019_paper.pdf)]
 
+<br>
+
+### AAAI 2019
+* **LWDN**: Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan. "Video Object Detection with Locally-Weighted Deformable Neighbors". AAAI(2019).[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4871)]
+
