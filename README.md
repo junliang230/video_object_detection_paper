@@ -1,7 +1,6 @@
 # video object detection paper
-record some video object detection papers
+record some video object detection papers and dataset
 
-<br>
 
 ### Dataset
 * **ImageNet**: Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy,Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li Fei-Fei. "ImageNet Large Scale Visual Recognition Challenge". IJCV(2015).[[paper](https://arxiv.org/abs/1409.0575)] [[download link](http://image-net.org/challenges/LSVRC/2015/downloads)]
@@ -64,3 +63,12 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 ### ICCV 2017
 * **FGFA**:  Xizhou Zhu, Yujie Wang, Jifeng Dai, Lu Yuan, Yichen Wei. "Flow-Guided Feature Aggregation for Video Object Detection". ICCV(2017).[[paper](https://arxiv.org/abs/1703.10025v2)] [[code](https://github.com/msracver/Flow-Guided-Feature-Aggregation)]
 * **D&T**:  Christoph Feichtenhofer, Axel Pinz, Andrew Zisserman. "Detect to Track and Track to Detect". ICCV(2017).[[paper](https://arxiv.org/pdf/1710.03958v2.pdf)] [[code](https://github.com/feichtenhofer/detect-track)]
+
+<br>
+
+### Papers before 2017
+* **T-cnn**:  Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, Wanli Ouyang. " T-cnn:
+Tubelets with convolutional neural networks for object detection from videos". IEEE Transactions on Circuits and Systems for Video Technology(2017).[[paper](https://arxiv.org/abs/1604.02532)]
+* **Object detection from video tubelets with convolutional neural networks**:  Kai Kang, Wanli Ouyang, Hongsheng Li, Xiaogang Wang. "Object detection
+from video tubelets with convolutional neural networks". CVPR(2016).[[paper](https://arxiv.org/pdf/1604.04053.pdf)] [[code](https://github.com/myfavouritekk/vdetlib)]
+* **Seq-NMS**:  Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang. "Seq-NMS for Video Object Detection". ArXiv(2016).[[paper](https://arxiv.org/pdf/1602.08465v2.pdf)]
