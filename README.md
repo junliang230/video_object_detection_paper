@@ -1,6 +1,13 @@
 # video object detection paper
 record some video object detection papers
 
+<br>
+
+### Dataset
+* **ImageNet**: Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy,Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li Fei-Fei. "ImageNet Large Scale Visual Recognition Challenge". IJCV(2015).[[paper](https://arxiv.org/abs/1409.0575)] [[download link](http://image-net.org/challenges/LSVRC/2015/downloads)]
+* **Epic Kitchen**: Dima Damen, Hazel Doughty, Giovanni Maria Farinella,Sanja Fidler, Antonino Furnari, Evangelos Kazakos, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, et al. "Scaling egocentric vision: The epic-kitchens dataset". ECCV(2018).[[paper](https://arxiv.org/pdf/1804.02748.pdf)] [[download link](https://epic-kitchens.github.io/2020-100)]
+
+
 ### ECCV 2020
 * **LSTS**: Jiang, Zhengkai and Liu, Yu and Yang, Ceyuan and Liu, Jihao and Gao, Peng and Zhang, Qian and Xiang, Shiming and Pan, Chunhong. "Learning Where to Focus for Efficient Video Object Detection". ECCV(2020).  [[paper](https://arxiv.org/pdf/1911.05253.pdf)] [[code](https://github.com/jiangzhengkai/LSTS)]
 * Video Object Detection via Object-level Temporal Aggregation
