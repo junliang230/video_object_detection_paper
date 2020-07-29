@@ -2,12 +2,12 @@
 record some video object detection papers and dataset
 
 #### state-of-the-art video object detectors performance comparison without post-processing methods.
-![video_object_detectors_performance_without_post_process](./fig/video_object_detectors_performance_with_postout_process.JPG)
+![video_object_detectors_performance_without_post_process](https://github.com/breezelj/video_object_detection_paper/raw/master/fig/video_object_detectors_performance_without_post_process.JPG)
 
 <br>
 
 #### state-of-the-art video object detectors performance comparison with post-processing methods. ∗ indicates use of video-level post-processing methods (e.g Seq-NMS, tubelet rescoring, BLR), △ indicates using data augmentation
-![video_object_detectors_performance_with_post_process](./fig/video_object_detectors_performance_with_post_process.JPG)
+![video_object_detectors_performance_with_post_process](https://github.com/breezelj/video_object_detection_paper/raw/master/fig/video_object_detectors_performance_with_post_process.JPG)
 
 <br>
 <br>
