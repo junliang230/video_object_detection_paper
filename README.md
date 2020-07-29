@@ -1,8 +1,15 @@
 # video object detection paper
 record some video object detection papers and dataset
+### some notes about papers:
+* [[视频目标检测(video object detection)简单综述](https://blog.csdn.net/breeze_blows/article/details/105323491)] 
+* [[视频目标检测论文](https://blog.csdn.net/breeze_blows/article/details/104533004)]
+
+<br>
+
 
 #### state-of-the-art video object detectors performance comparison without post-processing methods.
 ![video_object_detectors_performance_without_post_process](https://github.com/breezelj/video_object_detection_paper/raw/master/fig/video_object_detectors_performance_without_post_process.JPG)
+
 
 <br>
 
