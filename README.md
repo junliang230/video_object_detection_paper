@@ -6,6 +6,7 @@ record some video object detection papers and dataset
 
 <br>
 
+#### note: If the image does not display, please check [[link](https://blog.csdn.net/breeze_blows/article/details/105323491)] or download the 'fig/' folder
 
 #### state-of-the-art video object detectors performance comparison without post-processing methods.
 ![video_object_detectors_performance_without_post_process](https://github.com/breezelj/video_object_detection_paper/raw/master/fig/video_object_detectors_performance_without_post_process.JPG)
