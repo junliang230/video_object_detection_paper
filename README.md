@@ -29,7 +29,7 @@ record some video object detection papers and dataset
 ### ECCV 2020
 * **LSTS**: Jiang, Zhengkai and Liu, Yu and Yang, Ceyuan and Liu, Jihao and Gao, Peng and Zhang, Qian and Xiang, Shiming and Pan, Chunhong. "Learning Where to Focus for Efficient Video Object Detection". ECCV(2020).  [[paper](https://arxiv.org/pdf/1911.05253.pdf)] [[code](https://github.com/jiangzhengkai/LSTS)]
 * Video Object Detection via Object-level Temporal Aggregation
-* Mining Inter-Video Proposal Relations for Video Object Detection
+* **HVRNet**: Mingfei Han, Yali Wang, Xiaojun Chang, and Yu Qiao1Mining. "Inter-Video Proposal Relations for Video Object Detection". ECCV(2020). [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660426.pdf)] [[code](https://github.com/youthHan/HVRNet)]
 * CenterNet Heatmap Propagation for Real-time Video Object Detection
 
 <br>
