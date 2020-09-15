@@ -1,5 +1,5 @@
 # video object detection paper
-record some video object detection papers and dataset
+record some video object detection papers and dataset (视频目标检测论文整理)
 ### some notes about papers:
 * [[视频目标检测(video object detection)简单综述](https://blog.csdn.net/breeze_blows/article/details/105323491)] 
 * [[视频目标检测论文](https://blog.csdn.net/breeze_blows/article/details/104533004)]
