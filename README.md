@@ -41,7 +41,6 @@ record some video object detection papers and dataset (视频目标检测论文�
 
 ### AAAI 2020
 * **TCENet**: Fei He, Naiyu Gao, Qiaozhe Li, Senyao Du, Xin Zhao, Kaiqi Huang. "Temporal Context Enhanced Feature Aggregation for Video Object Detection". AAAI(2020).[[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/6727)]
-* **DorT**: Hao Luo, Wenxuan Xie, Xinggang Wang, Wenjun Zeng. "Detect or Track: Towards Cost-Effective Video Object Detection/Tracking". AAAI(2019).[[paper](https://arxiv.org/pdf/1811.05340.pdf)]
 
 <br>
 
