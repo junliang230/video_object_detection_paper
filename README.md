@@ -58,6 +58,7 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 
 ### AAAI 2019
 * **LWDN**: Zhengkai Jiang, Peng Gao, Chaoxu Guo, Qian Zhang, Shiming Xiang, Chunhong Pan. "Video Object Detection with Locally-Weighted Deformable Neighbors". AAAI(2019).[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4871)]
+* **DorT**: Hao Luo, Wenxuan Xie, Xinggang Wang, Wenjun Zeng. "Detect or Track: Towards Cost-Effective Video Object Detection/Tracking". AAAI(2019).[[paper](https://arxiv.org/abs/1811.05340)]
 
 <br>
 
