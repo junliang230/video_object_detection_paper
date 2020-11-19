@@ -26,6 +26,12 @@ record some video object detection papers and dataset (视频目标检测论文�
 
 <br>
 
+### ACM MM 2020
+* **DSFNet**: Lijian Lin, Haosheng Chen, Honglun Zhang, Jun Liang, Yu Li, Ying Shan, Hanzi Wang. "Dual Semantic Fusion Network for Video Object Detection". ACM MM(2020).  [[paper](https://arxiv.org/pdf/2009.07498.pdf)]
+* **EBFA**: Liang Han, Pichao Wang, Zhaozheng Yin, Fan Wang, Hao Li. "Exploiting Better Feature Aggregation for Video Object Detection.". ACM MM(2020).  [[paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413927)]
+
+<br>
+
 ### ECCV 2020
 * **LSTS**: Jiang, Zhengkai and Liu, Yu and Yang, Ceyuan and Liu, Jihao and Gao, Peng and Zhang, Qian and Xiang, Shiming and Pan, Chunhong. "Learning Where to Focus for Efficient Video Object Detection". ECCV(2020).  [[paper](https://arxiv.org/pdf/1911.05253.pdf)] [[code](https://github.com/jiangzhengkai/LSTS)]
 * **OLTA**: Chun-Han Yao, Chen Fang, Xiaohui Shen, Yangyue Wan, Ming-Hsuan Yang. "Video Object Detection via Object-level Temporal Aggregation". ECCV(2020). [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590154.pdf)]
