@@ -24,6 +24,28 @@ record some video object detection papers and dataset (视频目标检测论文�
 * **ImageNet**: Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy,Aditya Khosla, Michael Bernstein, Alexander C. Berg, and Li Fei-Fei. "ImageNet Large Scale Visual Recognition Challenge". IJCV(2015).[[paper](https://arxiv.org/abs/1409.0575)] [[download link](http://image-net.org/challenges/LSVRC/2015/downloads)]
 * **Epic Kitchen**: Dima Damen, Hazel Doughty, Giovanni Maria Farinella,Sanja Fidler, Antonino Furnari, Evangelos Kazakos, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, et al. "Scaling egocentric vision: The epic-kitchens dataset". ECCV(2018).[[paper](https://arxiv.org/pdf/1804.02748.pdf)] [[download link](https://epic-kitchens.github.io/2020-100)]
 
+
+<br>
+
+### IJCV 2021
+* **CSMN**: Liang Han, Pichao Wang, Zhaozheng Yin, Fan Wang, Hao Li. "Context and Structure Mining Network for Video Object Detection". IJCV(2021).[[paper](https://link.springer.com/content/pdf/10.1007/s11263-021-01507-2.pdf)][[code](https://github.com/LiangHann/Context-and-Structure-Mining-Network-for-Video-Object-Detection)]
+
+<br>
+
+### ACM MM 2021
+* **TransVOD**: Lu He, Qianyu Zhou, Xiangtai Li, Li Niu1, Guangliang Cheng, Xiao Li, Wenxuan Liu, Yunhai Tong, Lizhuang Ma, Liqing Zhang. "End-to-End Video Object Detection with Spatial-Temporal Transformers". ACM MM(2021).[[paper](https://arxiv.org/pdf/2105.10920.pdf)][[code](https://github.com/SJTU-LuHe/TransVOD)]
+* **VmAP**: Anupam Sobti, Vaibhav Mavi, M Balakrishnan, Chetan Arora. "VmAP: A Fair Metric for Video Object Detection". ACM MM(2021).[[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475383)]
+
+<br>
+
+### AAAI 2021
+* **MAMBA**: Guanxiong Sun, Yang Hua, Guosheng Hu, Neil Robertson. "MAMBA:Multi-level Aggregation via Memory Bank for Video Object Detection". AAAI(2021).[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16365)]
+
+<br>
+
+### ICCV 2021
+* **TF-Blender**: Yiming Cui, Liqi Yan, Zhiwen Cao, Dongfang Liu. "TF-Blender: Temporal Feature Blender for Video Object Detection". ICCV(2021).[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_TF-Blender_Temporal_Feature_Blender_for_Video_Object_Detection_ICCV_2021_paper.pdf)][[code](https://github.com/goodproj13/TF-Blender)]
+
 <br>
 
 ### ACM MM 2020
