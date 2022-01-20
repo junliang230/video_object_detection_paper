@@ -98,7 +98,7 @@ Object Detection". ICCV(2019).[[paper](https://openaccess.thecvf.com/content_ICC
 
 ### ECCV 2018
 * **STSN**:  Gedas Bertasius, Lorenzo Torresani, ianbo Shi. "Object Detection in Video with Spatiotemporal Sampling Networks". ECCV(2018).[[paper](https://arxiv.org/pdf/1803.05549v2.pdf)]
-* **STMM**:  Fanyi Xiao, Yong Jae Lee. "Video Object Detection with an Aligned Spatial-Temporal Memory". ECCV(2018).[[paper](https://arxiv.org/pdf/1712.06317v3.pdf)] [[code](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
+* **STMN**:  Fanyi Xiao, Yong Jae Lee. "Video Object Detection with an Aligned Spatial-Temporal Memory". ECCV(2018).[[paper](https://arxiv.org/pdf/1712.06317v3.pdf)] [[code](http://fanyix.cs.ucdavis.edu/project/stmn/project.html)]
 * **MANet**:  Shiyao Wang, Yucong Zhou, Junjie Yan, Zhidong Deng. "Fully Motion-Aware Network for Video Object Detection". ECCV(2018).[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shiyao_Wang_Fully_Motion-Aware_Network_ECCV_2018_paper.pdf)]
 
 <br>
